@@ -1,0 +1,105 @@
+Time 0:
+Queue 1:
+
+Queue 2:
+
+Time 1:
+Queue 1:
+(2: 1, 3)
+
+Queue 2:
+(6: 1, 1)
+
+Time 2:
+Queue 1:
+(2: 1, 3)
+
+Queue 2:
+(7: 2, 2)
+
+Time 3:
+Queue 1:
+(2: 1, 3)
+(3: 3, 1)
+(8: 3, 1)
+(9: 3, 2)
+
+Queue 2:
+(7: 2, 2)
+(1: 3, 3)
+
+Time 4:
+Queue 1:
+(3: 3, 1)
+(8: 3, 1)
+(9: 3, 2)
+(5: 4, 3)
+
+Queue 2:
+(1: 3, 3)
+(4: 4, 1)
+(10: 4, 2)
+
+Time 5:
+Queue 1:
+(8: 3, 1)
+(9: 3, 2)
+(5: 4, 3)
+
+Queue 2:
+(1: 3, 3)
+(4: 4, 1)
+(10: 4, 2)
+
+Time 6:
+Queue 1:
+(9: 3, 2)
+(5: 4, 3)
+
+Queue 2:
+(1: 3, 3)
+(4: 4, 1)
+(10: 4, 2)
+
+Time 7:
+Queue 1:
+(9: 3, 2)
+(5: 4, 3)
+
+Queue 2:
+(4: 4, 1)
+(10: 4, 2)
+
+Time 8:
+Queue 1:
+(5: 4, 3)
+
+Queue 2:
+(10: 4, 2)
+
+Time 9:
+Queue 1:
+(5: 4, 3)
+
+Queue 2:
+(10: 4, 2)
+
+Time 10:
+Queue 1:
+(5: 4, 3)
+
+Queue 2:
+
+Time 11:
+Queue 1:
+
+Queue 2:
+
+Time 12:
+Queue 1:
+
+Queue 2:
+
+Average service time: 1.9
+Average waiting time: 4.4
+Peak hour: 7

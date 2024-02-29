@@ -1,0 +1,924 @@
+Time 0:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 1:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 2:
+Queue 1:
+(26: 2, 2)
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 3:
+Queue 1:
+(26: 2, 1)
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 4:
+Queue 1:
+
+Queue 2:
+(1: 4, 3)
+
+Queue 3:
+(30: 4, 5)
+
+Queue 4:
+
+Queue 5:
+
+Time 5:
+Queue 1:
+
+Queue 2:
+(1: 4, 2)
+
+Queue 3:
+(30: 4, 4)
+
+Queue 4:
+(11: 5, 2)
+
+Queue 5:
+
+Time 6:
+Queue 1:
+
+Queue 2:
+(1: 4, 1)
+
+Queue 3:
+(30: 4, 3)
+
+Queue 4:
+(11: 5, 1)
+
+Queue 5:
+
+Time 7:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+(30: 4, 2)
+
+Queue 4:
+
+Queue 5:
+(22: 7, 1)
+
+Time 8:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+(30: 4, 1)
+
+Queue 4:
+
+Queue 5:
+
+Time 9:
+Queue 1:
+(29: 9, 5)
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+(16: 9, 2)
+
+Time 10:
+Queue 1:
+(29: 9, 4)
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+(16: 9, 1)
+
+Time 11:
+Queue 1:
+(29: 9, 3)
+
+Queue 2:
+(7: 11, 1)
+
+Queue 3:
+
+Queue 4:
+(2: 11, 1)
+
+Queue 5:
+
+Time 12:
+Queue 1:
+(29: 9, 2)
+
+Queue 2:
+(9: 12, 4)
+
+Queue 3:
+
+Queue 4:
+(3: 12, 2)
+
+Queue 5:
+
+Time 13:
+Queue 1:
+(29: 9, 1)
+
+Queue 2:
+(9: 12, 3)
+
+Queue 3:
+
+Queue 4:
+(3: 12, 1)
+(35: 13, 5)
+
+Queue 5:
+(13: 13, 1)
+(44: 13, 1)
+
+Time 14:
+Queue 1:
+
+Queue 2:
+(9: 12, 2)
+
+Queue 3:
+
+Queue 4:
+(35: 13, 5)
+
+Queue 5:
+(44: 13, 1)
+
+Time 15:
+Queue 1:
+
+Queue 2:
+(9: 12, 1)
+
+Queue 3:
+
+Queue 4:
+(35: 13, 4)
+
+Queue 5:
+
+Time 16:
+Queue 1:
+(21: 16, 4)
+
+Queue 2:
+(19: 16, 5)
+
+Queue 3:
+(15: 16, 3)
+(38: 16, 7)
+
+Queue 4:
+(35: 13, 3)
+
+Queue 5:
+(4: 16, 5)
+
+Time 17:
+Queue 1:
+(21: 16, 3)
+
+Queue 2:
+(19: 16, 4)
+
+Queue 3:
+(15: 16, 2)
+(38: 16, 7)
+
+Queue 4:
+(35: 13, 2)
+(32: 17, 1)
+
+Queue 5:
+(4: 16, 4)
+
+Time 18:
+Queue 1:
+(21: 16, 2)
+
+Queue 2:
+(19: 16, 3)
+
+Queue 3:
+(15: 16, 1)
+(38: 16, 7)
+
+Queue 4:
+(35: 13, 1)
+(32: 17, 1)
+(48: 18, 1)
+
+Queue 5:
+(4: 16, 3)
+(18: 18, 3)
+
+Time 19:
+Queue 1:
+(21: 16, 1)
+
+Queue 2:
+(19: 16, 2)
+(45: 19, 1)
+
+Queue 3:
+(38: 16, 7)
+
+Queue 4:
+(32: 17, 1)
+(48: 18, 1)
+(14: 19, 2)
+
+Queue 5:
+(4: 16, 2)
+(18: 18, 3)
+
+Time 20:
+Queue 1:
+
+Queue 2:
+(19: 16, 1)
+(45: 19, 1)
+
+Queue 3:
+(38: 16, 6)
+
+Queue 4:
+(48: 18, 1)
+(14: 19, 2)
+(10: 20, 4)
+
+Queue 5:
+(4: 16, 1)
+(18: 18, 3)
+
+Time 21:
+Queue 1:
+
+Queue 2:
+(45: 19, 1)
+
+Queue 3:
+(38: 16, 5)
+
+Queue 4:
+(14: 19, 2)
+(10: 20, 4)
+
+Queue 5:
+(18: 18, 3)
+
+Time 22:
+Queue 1:
+
+Queue 2:
+(12: 22, 5)
+
+Queue 3:
+(38: 16, 4)
+
+Queue 4:
+(14: 19, 1)
+(10: 20, 4)
+
+Queue 5:
+(18: 18, 2)
+
+Time 23:
+Queue 1:
+
+Queue 2:
+(12: 22, 4)
+
+Queue 3:
+(38: 16, 3)
+
+Queue 4:
+(10: 20, 4)
+
+Queue 5:
+(18: 18, 1)
+(33: 23, 3)
+
+Time 24:
+Queue 1:
+(36: 24, 6)
+
+Queue 2:
+(12: 22, 3)
+
+Queue 3:
+(38: 16, 2)
+
+Queue 4:
+(10: 20, 3)
+(42: 24, 7)
+
+Queue 5:
+(33: 23, 3)
+
+Time 25:
+Queue 1:
+(36: 24, 5)
+
+Queue 2:
+(12: 22, 2)
+
+Queue 3:
+(38: 16, 1)
+
+Queue 4:
+(10: 20, 2)
+(42: 24, 7)
+
+Queue 5:
+(33: 23, 2)
+(5: 25, 6)
+
+Time 26:
+Queue 1:
+(36: 24, 4)
+
+Queue 2:
+(12: 22, 1)
+(43: 26, 4)
+
+Queue 3:
+(20: 26, 4)
+
+Queue 4:
+(10: 20, 1)
+(42: 24, 7)
+
+Queue 5:
+(33: 23, 1)
+(5: 25, 6)
+
+Time 27:
+Queue 1:
+(36: 24, 3)
+(8: 27, 2)
+
+Queue 2:
+(43: 26, 4)
+(40: 27, 7)
+
+Queue 3:
+(20: 26, 3)
+(28: 27, 1)
+
+Queue 4:
+(42: 24, 7)
+
+Queue 5:
+(5: 25, 6)
+(31: 27, 3)
+
+Time 28:
+Queue 1:
+(36: 24, 2)
+(8: 27, 2)
+
+Queue 2:
+(43: 26, 3)
+(40: 27, 7)
+
+Queue 3:
+(20: 26, 2)
+(28: 27, 1)
+
+Queue 4:
+(42: 24, 6)
+
+Queue 5:
+(5: 25, 5)
+(31: 27, 3)
+
+Time 29:
+Queue 1:
+(36: 24, 1)
+(8: 27, 2)
+
+Queue 2:
+(43: 26, 2)
+(40: 27, 7)
+
+Queue 3:
+(20: 26, 1)
+(28: 27, 1)
+
+Queue 4:
+(42: 24, 5)
+
+Queue 5:
+(5: 25, 4)
+(31: 27, 3)
+
+Time 30:
+Queue 1:
+(8: 27, 2)
+(50: 30, 5)
+
+Queue 2:
+(43: 26, 1)
+(40: 27, 7)
+
+Queue 3:
+(28: 27, 1)
+(41: 30, 5)
+
+Queue 4:
+(42: 24, 4)
+
+Queue 5:
+(5: 25, 3)
+(31: 27, 3)
+
+Time 31:
+Queue 1:
+(8: 27, 1)
+(50: 30, 5)
+
+Queue 2:
+(40: 27, 7)
+
+Queue 3:
+(41: 30, 5)
+
+Queue 4:
+(42: 24, 3)
+(27: 31, 6)
+
+Queue 5:
+(5: 25, 2)
+(31: 27, 3)
+
+Time 32:
+Queue 1:
+(50: 30, 5)
+
+Queue 2:
+(40: 27, 6)
+
+Queue 3:
+(41: 30, 4)
+
+Queue 4:
+(42: 24, 2)
+(27: 31, 6)
+
+Queue 5:
+(5: 25, 1)
+(31: 27, 3)
+(25: 32, 6)
+
+Time 33:
+Queue 1:
+(50: 30, 4)
+
+Queue 2:
+(40: 27, 5)
+
+Queue 3:
+(41: 30, 3)
+(37: 33, 4)
+
+Queue 4:
+(42: 24, 1)
+(27: 31, 6)
+
+Queue 5:
+(31: 27, 3)
+(25: 32, 6)
+
+Time 34:
+Queue 1:
+(50: 30, 3)
+(23: 34, 1)
+
+Queue 2:
+(40: 27, 4)
+
+Queue 3:
+(41: 30, 2)
+(37: 33, 4)
+
+Queue 4:
+(27: 31, 6)
+
+Queue 5:
+(31: 27, 2)
+(25: 32, 6)
+
+Time 35:
+Queue 1:
+(50: 30, 2)
+(23: 34, 1)
+(24: 35, 3)
+
+Queue 2:
+(40: 27, 3)
+
+Queue 3:
+(41: 30, 1)
+(37: 33, 4)
+
+Queue 4:
+(27: 31, 5)
+
+Queue 5:
+(31: 27, 1)
+(25: 32, 6)
+
+Time 36:
+Queue 1:
+(50: 30, 1)
+(23: 34, 1)
+(24: 35, 3)
+
+Queue 2:
+(40: 27, 2)
+
+Queue 3:
+(37: 33, 4)
+
+Queue 4:
+(27: 31, 4)
+
+Queue 5:
+(25: 32, 6)
+
+Time 37:
+Queue 1:
+(23: 34, 1)
+(24: 35, 3)
+
+Queue 2:
+(40: 27, 1)
+
+Queue 3:
+(37: 33, 3)
+
+Queue 4:
+(27: 31, 3)
+(47: 37, 3)
+
+Queue 5:
+(25: 32, 5)
+
+Time 38:
+Queue 1:
+(24: 35, 3)
+
+Queue 2:
+(34: 38, 3)
+
+Queue 3:
+(37: 33, 2)
+
+Queue 4:
+(27: 31, 2)
+(47: 37, 3)
+
+Queue 5:
+(25: 32, 4)
+
+Time 39:
+Queue 1:
+(24: 35, 2)
+(17: 39, 4)
+
+Queue 2:
+(34: 38, 2)
+
+Queue 3:
+(37: 33, 1)
+(49: 39, 7)
+
+Queue 4:
+(27: 31, 1)
+(47: 37, 3)
+
+Queue 5:
+(25: 32, 3)
+
+Time 40:
+Queue 1:
+(24: 35, 1)
+(17: 39, 4)
+
+Queue 2:
+(34: 38, 1)
+
+Queue 3:
+(49: 39, 7)
+
+Queue 4:
+(47: 37, 3)
+(46: 40, 5)
+
+Queue 5:
+(25: 32, 2)
+(39: 40, 7)
+
+Time 41:
+Queue 1:
+(17: 39, 4)
+
+Queue 2:
+
+Queue 3:
+(49: 39, 6)
+
+Queue 4:
+(47: 37, 2)
+(46: 40, 5)
+
+Queue 5:
+(25: 32, 1)
+(39: 40, 7)
+
+Time 42:
+Queue 1:
+(17: 39, 3)
+
+Queue 2:
+
+Queue 3:
+(49: 39, 5)
+
+Queue 4:
+(47: 37, 1)
+(46: 40, 5)
+
+Queue 5:
+(39: 40, 7)
+
+Time 43:
+Queue 1:
+(17: 39, 2)
+
+Queue 2:
+
+Queue 3:
+(49: 39, 4)
+
+Queue 4:
+(46: 40, 5)
+
+Queue 5:
+(39: 40, 6)
+
+Time 44:
+Queue 1:
+(17: 39, 1)
+
+Queue 2:
+
+Queue 3:
+(49: 39, 3)
+
+Queue 4:
+(46: 40, 4)
+
+Queue 5:
+(39: 40, 5)
+
+Time 45:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+(49: 39, 2)
+
+Queue 4:
+(46: 40, 3)
+
+Queue 5:
+(39: 40, 4)
+
+Time 46:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+(49: 39, 1)
+
+Queue 4:
+(46: 40, 2)
+
+Queue 5:
+(39: 40, 3)
+
+Time 47:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+(46: 40, 1)
+
+Queue 5:
+(39: 40, 2)
+
+Time 48:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+(39: 40, 1)
+
+Time 49:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 50:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 51:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 52:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 53:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 54:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 55:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 56:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 57:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 58:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 59:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Time 60:
+Queue 1:
+
+Queue 2:
+
+Queue 3:
+
+Queue 4:
+
+Queue 5:
+
+Average service time: 3.72
+Average waiting time: 14.78
+Peak hour: 9
